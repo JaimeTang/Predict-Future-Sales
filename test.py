@@ -1,5 +1,3 @@
-print("Hello")
-
-import pandas as pd 
-print("world")
-print(" ")
+import sklearn
+import pandas
+import numpy
